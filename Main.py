@@ -1,0 +1,1 @@
+print("Teacher! What strength it takesTo teach us allAnd patience, and desire,And hope and expectationOur teacher is the best in the world,He will help you in your time of need,And let there be only smiles and flowers,He will find on his way.")
